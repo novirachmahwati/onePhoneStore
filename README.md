@@ -1,6 +1,6 @@
 # One Phone Store
 
-One Phone Store is a responsive website project showcasing semantic HTML structure and modern CSS techniques. This project emphasizes accessibility, clean design, and adherence to web development best practices.
+One Phone Store is a responsive website project completed as part of the [Dicoding](https://www.dicoding.com/) program. The project showcases semantic HTML structure and modern CSS techniques, emphasizing accessibility, clean design, and adherence to web development best practices.
 
 ## Features
 
